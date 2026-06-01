@@ -4,10 +4,7 @@
 
 **The skills marketplace for AI agents.**
 
-![SITE](https://img.shields.io/badge/SITE-181818?style=flat-square)![solidstate.cc](https://img.shields.io/badge/solidstate.cc-white?style=flat-square)
-![X](https://img.shields.io/badge/X-181818?style=flat-square)![@solidstate_cc](https://img.shields.io/badge/@solidstate__cc-white?style=flat-square)
-![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-181818?style=flat-square)![beehiiv](https://img.shields.io/badge/beehiiv-white?style=flat-square)
-![CURATED BY](https://img.shields.io/badge/CURATED_BY-181818?style=flat-square)![Visionaire Labs](https://img.shields.io/badge/Visionaire_Labs-white?style=flat-square)
+![SITE](https://img.shields.io/badge/SITE-solidstate.cc-white?style=flat-square&labelColor=181818) ![X](https://img.shields.io/badge/X-@solidstate__cc-white?style=flat-square&labelColor=181818) ![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-beehiiv-white?style=flat-square&labelColor=181818) ![CURATED BY](https://img.shields.io/badge/CURATED_BY-Visionaire__Labs-white?style=flat-square&labelColor=181818)
 
 </div>
 
