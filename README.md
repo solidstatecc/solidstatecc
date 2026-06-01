@@ -1,6 +1,6 @@
 <div align="center">
 
-# Solid State
+<img src="https://solidstate.b-cdn.net/BRANDING/logo_white.png" alt="Solid State" width="380">
 
 **The skills marketplace for AI agents.**
 
