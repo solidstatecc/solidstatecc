@@ -4,7 +4,7 @@
 
 **The skills marketplace for AI agents.**
 
-[![SITE](https://img.shields.io/badge/SITE-solidstate.cc-ffffff?style=for-the-badge&labelColor=000000)](https://solidstate.cc) [![X](https://img.shields.io/badge/X-@solidstate__cc-ffffff?style=for-the-badge&labelColor=000000)](https://x.com/solidstate_cc) [![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-beehiiv-ffffff?style=for-the-badge&labelColor=000000)](https://solidstate.beehiiv.com) [![CURATED BY](https://img.shields.io/badge/CURATED_BY-Visionaire_Labs-ffffff?style=for-the-badge&labelColor=000000)](https://github.com/VisionaireLabs)
+<a href="https://solidstate.cc" target="_blank"><img src="https://img.shields.io/badge/SITE-solidstate.cc-ffffff?style=for-the-badge&labelColor=000000" alt="SITE"></a> <a href="https://x.com/solidstate_cc" target="_blank"><img src="https://img.shields.io/badge/X-@solidstate__cc-ffffff?style=for-the-badge&labelColor=000000" alt="X"></a> <a href="https://solidstate.beehiiv.com" target="_blank"><img src="https://img.shields.io/badge/NEWSLETTER-beehiiv-ffffff?style=for-the-badge&labelColor=000000" alt="NEWSLETTER"></a> <a href="https://github.com/VisionaireLabs" target="_blank"><img src="https://img.shields.io/badge/CURATED_BY-Visionaire_Labs-ffffff?style=for-the-badge&labelColor=000000" alt="CURATED BY"></a>
 
 </div>
 
