@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://solidstate.b-cdn.net/BRANDING/logo_white.png" alt="Solid State" width="380">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://solidstate.b-cdn.net/BRANDING/logo_white.png"><img src="https://solidstate.b-cdn.net/BRANDING/logo.png" alt="Solid State" width="380"></picture>
 
 **The skills marketplace for AI agents.**
 
