@@ -10,11 +10,9 @@
 
 ---
 
-Curated skills. Not a dumping ground.
 
-Solid State is run by [Thor Elias Engelstad](https://github.com/ThorEngelstad) under Visionaire Labs. A marketplace for the skills AI agents actually run — every listing read, tested, and labeled before it ships. Most catalogs crawl and count. We curate and verify.
+Solid State is run by Visionaire Labs. A marketplace for the skills AI agents actually run — every listing read, tested, and labeled before it ships. Most catalogs crawl and count. We curate and verify.
 
-Built on NemoClaw. Priced honestly. Open where it counts.
 
 ## What we're building
 
